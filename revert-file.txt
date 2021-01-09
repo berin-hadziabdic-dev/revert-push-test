@@ -1,3 +1,2 @@
-Im a good commit.
-Some text.
-And some more text.
+https://github.com/berin-hadziabdic-dev/revert-push-test.gitIm a good commit.
+Commit this before checkout.
