@@ -3,3 +3,5 @@ Commit this before checkout.
 I am adding this in dev. 
 I am also adding this in dev.
 I am adding this in the original dev branch.
+Making a merge conflict in dev2!
+Adding this in dev 2!Merge conflict!
