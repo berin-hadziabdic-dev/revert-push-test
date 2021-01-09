@@ -2,3 +2,4 @@ https://github.com/berin-hadziabdic-dev/revert-push-test.gitIm a good commit.
 Commit this before checkout.
 I am adding this in dev. 
 Making a merge conflict in dev2!
+Adding this in dev 2!Merge conflict!
